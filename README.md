@@ -82,23 +82,6 @@ the conceptual phase-space diagram (Fig. S5).
 4. Average across points per acquisition for the time-series and phase-space
    figures; use per-point medians at the synthetic-point locations for the map.
 
-## Creating the archive deposit
-
-The public code/data deposit contains only the source, inputs and reference
-figures. To (re)build the upload archive from the repository root:
-
-```bash
-zip -r buyukcekmece_landslide_insar_v1.0.zip \
-    README.md LICENSE CITATION.cff requirements.txt generate_figures.py \
-    data figures_manuscript \
-    -x '*/.DS_Store' '*/__pycache__/*'
-```
-
-This deliberately excludes editing/working files (e.g. the manuscript source
-and editor configuration). After uploading to Zenodo, record the assigned DOI
-in `CITATION.cff` and cite the version-independent (concept) DOI in the
-manuscript.
-
 ## License
 
 Released under the MIT License — see [`LICENSE`](LICENSE).
