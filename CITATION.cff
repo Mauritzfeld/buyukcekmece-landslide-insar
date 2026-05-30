@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Figure-generation code for: Satellite radar reveals rotational self-stabilization in earthquake-triggered landslides"
+abstract: >-
+  Code and data to reproduce the InSAR-derived figures of the Büyükçekmece
+  landslide study (Istanbul, Turkey) before and after the 2019 Mw 5.7 Silivri
+  earthquake, using multi-geometry Sentinel-1 Persistent Scatterer InSAR with
+  line-of-sight velocity decomposition and phase-space analysis.
+type: software
+version: 1.0.0
+# date-released: YYYY-MM-DD   # set on the day you create the Zenodo deposit
+license: MIT
+authors:
+  - family-names: Feldbrugge
+    given-names: Mauritz
+# doi: 10.5281/zenodo.XXXXXXX   # fill in after Zenodo mints the DOI
+keywords:
+  - InSAR
+  - Sentinel-1
+  - landslide
+  - persistent scatterer
+  - earthquake
+  - phase-space analysis
+preferred-citation:
+  type: article
+  title: "Satellite radar reveals rotational self-stabilization in earthquake-triggered landslides"
+  authors:
+    - family-names: Feldbrugge
+      given-names: Mauritz
+  year: 2026
+  # journal: Science
+  # doi:        # fill in once the article DOI is assigned

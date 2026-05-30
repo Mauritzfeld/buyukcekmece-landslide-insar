@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk -F: '$1>=5944 && $1<=6300')",
+      "Bash(.venv/bin/python)"
+    ]
+  }
+}
