@@ -27,6 +27,9 @@ authors:
   - family-names: Lopez-Querol
     given-names: Susana
     orcid: "https://orcid.org/0000-0002-2677-3007"
+  - family-names: Rossetto
+    given-names: Tiziana
+    orcid: "https://orcid.org/0000-0002-9231-3017"
   - family-names: Giardina
     given-names: Giorgia
     orcid: "https://orcid.org/0000-0002-5996-5830"
@@ -59,6 +62,9 @@ preferred-citation:
     - family-names: Lopez-Querol
       given-names: Susana
       orcid: "https://orcid.org/0000-0002-2677-3007"
+    - family-names: Rossetto
+      given-names: Tiziana
+      orcid: "https://orcid.org/0000-0002-9231-3017"
     - family-names: Giardina
       given-names: Giorgia
       orcid: "https://orcid.org/0000-0002-5996-5830"
