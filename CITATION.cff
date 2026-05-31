@@ -8,12 +8,30 @@ abstract: >-
   line-of-sight velocity decomposition and phase-space analysis.
 type: software
 version: 1.0.0
-# date-released: YYYY-MM-DD   # set on the day you create the Zenodo deposit
+# date-released: 2026-05-31
+
 license: MIT
 authors:
   - family-names: Feldbrugge
     given-names: Mauritz
-# doi: 10.5281/zenodo.XXXXXXX   # fill in after Zenodo mints the DOI
+    orcid: "https://orcid.org/0009-0007-2837-5794"
+  - family-names: Foroughnia
+    given-names: Fatemeh
+    orcid: "https://orcid.org/0000-0002-9846-6890"
+  - family-names: Shah Malekpoor
+    given-names: Pooneh
+    orcid: "https://orcid.org/0000-0003-4981-5756"
+  - family-names: Kontoe
+    given-names: Maria
+    orcid: "https://orcid.org/0000-0001-9813-4119"
+  - family-names: Lopez-Querol
+    given-names: Susana
+    orcid: "https://orcid.org/0000-0002-2677-3007"
+  - family-names: Giardina
+    given-names: Giorgia
+    orcid: "https://orcid.org/0000-0002-5996-5830"
+
+doi: "10.5281/zenodo.20471840"
 keywords:
   - InSAR
   - Sentinel-1
@@ -21,12 +39,29 @@ keywords:
   - persistent scatterer
   - earthquake
   - phase-space analysis
+
 preferred-citation:
   type: article
   title: "Satellite radar reveals rotational self-stabilization in earthquake-triggered landslides"
   authors:
     - family-names: Feldbrugge
       given-names: Mauritz
+      orcid: "https://orcid.org/0009-0007-2837-5794"
+    - family-names: Foroughnia
+      given-names: Fatemeh
+      orcid: "https://orcid.org/0000-0002-9846-6890"
+    - family-names: Shah Malekpoor
+      given-names: Pooneh
+      orcid: "https://orcid.org/0000-0003-4981-5756"
+    - family-names: Kontoe
+      given-names: Maria
+      orcid: "https://orcid.org/0000-0001-9813-4119"
+    - family-names: Lopez-Querol
+      given-names: Susana
+      orcid: "https://orcid.org/0000-0002-2677-3007"
+    - family-names: Giardina
+      given-names: Giorgia
+      orcid: "https://orcid.org/0000-0002-5996-5830"
   year: 2026
-  # journal: Science
-  # doi:        # fill in once the article DOI is assigned
+  journal: Science
+  # doi:  # fill in once assigned
